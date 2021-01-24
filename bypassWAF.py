@@ -23,7 +23,6 @@ def bypass(payload):
     payload = payload.replace("union", "u%u006eion")
     payload = payload.replace("CHAR", "%u0063har")
     payload = payload.replace("char", "%u0063har")
-    payload = payload.replace("#", "/*!*/#")
     payload = payload.replace("(", "+(")
     payload = payload.replace(".", ".+")
     payload = payload.replace("--", "/*!*/--")
