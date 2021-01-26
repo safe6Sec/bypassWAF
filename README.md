@@ -1,2 +1,9 @@
 # bypassWAF
-用于mssql手注生成混淆payload
+**bypassWAF**:用于mssql手注,混淆payload
+
+**generationData_bypass**:生成垃圾数据
+
+
+
+
+
